@@ -48,3 +48,9 @@ The application uses synthetically generated traffic data for model training and
 ## Project Status
 
 Developed as an academic project to demonstrate machine learning applications in intelligent traffic management.
+
+
+# Live demo
+
+
+https://flowopt-ai-3hkgujssksf2yfwvnvaeig.streamlit.app/
